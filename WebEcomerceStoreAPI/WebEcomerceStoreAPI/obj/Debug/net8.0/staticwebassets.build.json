@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "W1yppbxqG6873iNRUZx4d7FnYzEHOBEafTCYqNc3p6E=",
+  "Source": "WebEcomerceStoreAPI",
+  "BasePath": "_content/WebEcomerceStoreAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
