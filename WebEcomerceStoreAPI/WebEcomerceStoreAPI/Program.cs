@@ -176,7 +176,7 @@ namespace WebEcomerceStoreAPI
         }
     });
             });
-
+            builder.WebHost.UseUrls("http://0.0.0.0:8080");
             var app = builder.Build();
 
            
@@ -194,7 +194,7 @@ namespace WebEcomerceStoreAPI
             });
             app.UseDefaultFiles();
             app.UseStaticFiles();
-            app.UseHttpsRedirection();
+          //  app.UseHttpsRedirection();
             DbInitializer.Init(app);
             app.UseCors("AllowFrontend");
             app.UseAuthentication();

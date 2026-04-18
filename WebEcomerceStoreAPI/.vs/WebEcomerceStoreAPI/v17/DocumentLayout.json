@@ -1,282 +1,290 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\data\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\data\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\services\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\services\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\iservices\\iorderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\iservices\\iorderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\common\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\common\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\services\\inventoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\services\\inventoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\controllers\\discountcodescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\controllers\\discountcodescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\services\\categoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\services\\categoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\services\\discountcodeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\services\\discountcodeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\services\\cloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\services\\cloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\services\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\services\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\services\\productimagesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\services\\productimagesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\iservices\\iorderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\iservices\\iorderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\repositories\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\repositories\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\common\\inventoryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\common\\inventoryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\common\\addorupdateinventoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\common\\addorupdateinventoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\common\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\common\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\common\\addorupdatediscountcoderequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\common\\addorupdatediscountcoderequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\common\\addorupdaterolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\common\\addorupdaterolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\repositories\\productimagesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\repositories\\productimagesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\repositories\\reviewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\repositories\\reviewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\repositories\\discountcoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\repositories\\discountcoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\common\\reviewresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\common\\reviewresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\common\\categoryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\common\\categoryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\common\\pagingationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\common\\pagingationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\iservices\\iproductimagesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\iservices\\iproductimagesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\iservices\\iroleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\iservices\\iroleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\iservices\\iinventoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\iservices\\iinventoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\iservices\\icloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\iservices\\icloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\common\\productimagesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\common\\productimagesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\common\\requestmodel\\addorupdateproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\common\\requestmodel\\addorupdateproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\common\\const.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\common\\const.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\controllers\\productimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\controllers\\productimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\common\\discountcoderesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\common\\discountcoderesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\common\\addorupdatereviewsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\common\\addorupdatereviewsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\common\\addorupdatecategoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\common\\addorupdatecategoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\iservices\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\iservices\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\migrations\\20251017115009_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\migrations\\20251017115009_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\iservices\\idiscountcodeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\iservices\\idiscountcodeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\iservices\\idiscountcodeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\repositories\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\iservices\\iproductimagesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\iservices\\iproductimagesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\repositories\\discountcoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\repositories\\discountcoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\controllers\\productimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\controllers\\productimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\data\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\data\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\common\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\common\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\services\\inventoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\services\\inventoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\controllers\\discountcodescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\controllers\\discountcodescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\services\\categoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\services\\categoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\services\\discountcodeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\services\\discountcodeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\services\\cloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\services\\cloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\services\\productimagesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\services\\productimagesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\repositories\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\repositories\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\common\\inventoryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\common\\inventoryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\common\\addorupdateinventoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\common\\addorupdateinventoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\common\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\common\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\common\\addorupdatediscountcoderequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\common\\addorupdatediscountcoderequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\common\\addorupdaterolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\common\\addorupdaterolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\repositories\\productimagesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\repositories\\productimagesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\repositories\\reviewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\repositories\\reviewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\common\\reviewresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\common\\reviewresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\common\\categoryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\common\\categoryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\common\\pagingationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\common\\pagingationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\iservices\\iroleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\iservices\\iroleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\iservices\\iinventoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\iservices\\iinventoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\iservices\\icloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\iservices\\icloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\common\\productimagesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\common\\productimagesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\common\\requestmodel\\addorupdateproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\common\\requestmodel\\addorupdateproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\common\\const.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\common\\const.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\common\\discountcoderesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\common\\discountcoderesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\common\\addorupdatereviewsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\common\\addorupdatereviewsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\common\\addorupdatecategoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\common\\addorupdatecategoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\iservices\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\iservices\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\migrations\\20251017115009_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\migrations\\20251017115009_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\repositories\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\repositories\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\common\\requestmodel\\userregisterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\common\\requestmodel\\userregisterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\common\\requestmodel\\userregisterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\entities\\discountcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\entities\\discountcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\entities\\discountcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\enum\\rolestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\enum\\rolestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\enum\\rolestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\enum\\accountstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\enum\\accountstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\enum\\accountstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\services\\reviewservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\services\\reviewservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\services\\reviewservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\common\\uploadproductimagesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\common\\uploadproductimagesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\common\\uploadproductimagesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\entities\\productimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\entities\\productimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\entities\\productimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\entities\\reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\entities\\reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\entities\\reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\iservices\\ireviewservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\iservices\\ireviewservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\iservices\\ireviewservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\services\\roleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\documents\\github\\webshop_bandienthoai\\webecomercestoreapi\\webecomercestoreapi\\services\\roleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\services\\roleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|c:\\users\\dell\\source\\repos\\eshopweb\\webecomercestoreapi\\webecomercestoreapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123177D7-2330-488E-A5E7-DF364D0ACF68}|WebEcomerceStoreAPI\\WebEcomerceStoreAPI.csproj|solutionrelative:webecomercestoreapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -285,8 +293,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 22,
+          "DockedWidth": 706,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
@@ -353,113 +361,102 @@
               "Name": "ST:2146146375:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "WebEcomerceStoreAPI\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T03:19:13.073Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Data\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Data\\DbInitializer.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Data\\DbInitializer.cs",
-              "RelativeToolTip": "WebEcomerceStoreAPI\\Data\\DbInitializer.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAAAEgAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T07:22:54.82Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "StoreDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Data\\StoreDbContext.cs",
-              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Data\\StoreDbContext.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Data\\StoreDbContext.cs",
-              "RelativeToolTip": "WebEcomerceStoreAPI\\Data\\StoreDbContext.cs",
+              "DocumentIndex": 1,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "WebEcomerceStoreAPI\\Repositories\\OrderRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T07:23:06.343Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "OrderServices.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\OrderServices.cs",
-              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Services\\OrderServices.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\OrderServices.cs",
-              "RelativeToolTip": "WebEcomerceStoreAPI\\Services\\OrderServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T16:52:28.165Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\UserService.cs",
-              "RelativeToolTip": "WebEcomerceStoreAPI\\Services\\UserService.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAACgAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T03:36:40.103Z"
+              "WhenOpened": "2026-03-28T13:46:02.081Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Program.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Program.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAQAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAAAK4AAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-17T08:20:07.105Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ReviewsController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Controllers\\ReviewsController.cs",
-              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Controllers\\ReviewsController.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Controllers\\ReviewsController.cs",
-              "RelativeToolTip": "WebEcomerceStoreAPI\\Controllers\\ReviewsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAhAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "WebEcomerceStoreAPI\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T03:18:59.396Z"
+              "WhenOpened": "2026-01-27T06:25:33.889Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "WebEcomerceStoreAPI\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAqwA8AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\appsettings.json",
+              "RelativeToolTip": "WebEcomerceStoreAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-11T02:48:52.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "WebEcomerceStoreAPI\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBkAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T06:25:33.889Z"
+              "WhenOpened": "2026-04-12T16:29:27.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderServices.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\OrderServices.cs",
+              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Services\\OrderServices.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\OrderServices.cs",
+              "RelativeToolTip": "WebEcomerceStoreAPI\\Services\\OrderServices.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwDwAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T16:52:28.165Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "IProductImagesService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\IServices\\IProductImagesService.cs",
+              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\IServices\\IProductImagesService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\IServices\\IProductImagesService.cs",
+              "RelativeToolTip": "WebEcomerceStoreAPI\\IServices\\IProductImagesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T17:12:28.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "IOrderServices.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\IServices\\IOrderServices.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\IServices\\IOrderServices.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\IServices\\IOrderServices.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\IServices\\IOrderServices.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\IServices\\IOrderServices.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\IServices\\IOrderServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -467,83 +464,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RolesController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Controllers\\RolesController.cs",
-              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Controllers\\RolesController.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Controllers\\RolesController.cs",
-              "RelativeToolTip": "WebEcomerceStoreAPI\\Controllers\\RolesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "IDisCountCodeServices.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\IServices\\IDisCountCodeServices.cs",
+              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\IServices\\IDisCountCodeServices.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\IServices\\IDisCountCodeServices.cs",
+              "RelativeToolTip": "WebEcomerceStoreAPI\\IServices\\IDisCountCodeServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T06:52:03.033Z"
+              "WhenOpened": "2026-02-12T02:05:32.779Z"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ProductResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\ProductResponse.cs",
-              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Common\\ProductResponse.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\ProductResponse.cs",
-              "RelativeToolTip": "WebEcomerceStoreAPI\\Common\\ProductResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T16:09:47.886Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Repositories\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Repositories\\OrderRepository.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Repositories\\OrderRepository.cs",
-              "RelativeToolTip": "WebEcomerceStoreAPI\\Repositories\\OrderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T13:46:02.081Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\appsettings.json",
-              "RelativeToolTip": "WebEcomerceStoreAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-11T02:48:52.12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "InventoryServices.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\InventoryServices.cs",
-              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Services\\InventoryServices.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\InventoryServices.cs",
-              "RelativeToolTip": "WebEcomerceStoreAPI\\Services\\InventoryServices.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T02:42:40.679Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 68,
-              "Title": "OrdersController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Controllers\\OrdersController.cs",
-              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Controllers\\OrdersController.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Controllers\\OrdersController.cs",
-              "RelativeToolTip": "WebEcomerceStoreAPI\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAApwB4AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T16:29:27.48Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "DisCountCodeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Repositories\\DisCountCodeRepository.cs",
+              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Repositories\\DisCountCodeRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Repositories\\DisCountCodeRepository.cs",
+              "RelativeToolTip": "WebEcomerceStoreAPI\\Repositories\\DisCountCodeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T03:41:23.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Controllers\\ReviewsController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "WebEcomerceStoreAPI\\Controllers\\ReviewsController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwB0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T03:18:59.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductImagesController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Controllers\\ProductImagesController.cs",
+              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Controllers\\ProductImagesController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Controllers\\ProductImagesController.cs",
+              "RelativeToolTip": "WebEcomerceStoreAPI\\Controllers\\ProductImagesController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T03:19:01.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Controllers\\ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Controllers\\ProductsController.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAQwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -552,10 +530,99 @@
             {
               "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "WebEcomerceStoreAPI\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAEgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T07:22:54.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebEcomerceStoreAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T03:19:13.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Data\\StoreDbContext.cs",
+              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Data\\StoreDbContext.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Data\\StoreDbContext.cs",
+              "RelativeToolTip": "WebEcomerceStoreAPI\\Data\\StoreDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T07:23:06.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\UserService.cs",
+              "RelativeToolTip": "WebEcomerceStoreAPI\\Services\\UserService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T03:36:40.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "WebEcomerceStoreAPI\\Controllers\\RolesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T06:52:03.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\ProductResponse.cs",
+              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Common\\ProductResponse.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\ProductResponse.cs",
+              "RelativeToolTip": "WebEcomerceStoreAPI\\Common\\ProductResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T16:09:47.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "InventoryServices.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\InventoryServices.cs",
+              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Services\\InventoryServices.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\InventoryServices.cs",
+              "RelativeToolTip": "WebEcomerceStoreAPI\\Services\\InventoryServices.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T02:42:40.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "DisCountCodesController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Controllers\\DisCountCodesController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Controllers\\DisCountCodesController.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Controllers\\DisCountCodesController.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Controllers\\DisCountCodesController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Controllers\\DisCountCodesController.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Controllers\\DisCountCodesController.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAYwCYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -563,11 +630,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
               "Title": "DisCountCodeServices.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\DisCountCodeServices.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\DisCountCodeServices.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Services\\DisCountCodeServices.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\DisCountCodeServices.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\DisCountCodeServices.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Services\\DisCountCodeServices.cs",
               "ViewState": "AgIAAFQAAAAAAAAAAAAAAEcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -575,59 +642,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 27,
               "Title": "CloudinaryService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\CloudinaryService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\CloudinaryService.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Services\\CloudinaryService.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\CloudinaryService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\CloudinaryService.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Services\\CloudinaryService.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAuwCoAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T15:16:09.649Z"
+              "WhenOpened": "2026-01-14T15:16:09.649Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "CategoryServices.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\CategoryServices.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\CategoryServices.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Services\\CategoryServices.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\CategoryServices.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\CategoryServices.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Services\\CategoryServices.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAgwD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T15:16:06.703Z"
+              "WhenOpened": "2026-01-14T15:16:06.703Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\UnitOfWork.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\UnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T07:54:50.737Z"
+              "WhenOpened": "2026-03-29T07:54:50.737Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "ProductImagesServices.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\ProductImagesServices.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\ProductImagesServices.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Services\\ProductImagesServices.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\ProductImagesServices.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\ProductImagesServices.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Services\\ProductImagesServices.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwEMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T03:36:41.614Z"
+              "WhenOpened": "2026-01-16T03:36:41.614Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "ProductServices.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\ProductServices.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\ProductServices.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Services\\ProductServices.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\ProductServices.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\ProductServices.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Services\\ProductServices.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAAADgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -635,11 +706,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 30,
               "Title": "InventoryResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\InventoryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\InventoryResponse.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Common\\InventoryResponse.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\InventoryResponse.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\InventoryResponse.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Common\\InventoryResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -647,11 +718,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 31,
               "Title": "AddOrUpdateInventoryRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\AddOrUpdateInventoryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\AddOrUpdateInventoryRequest.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Common\\AddOrUpdateInventoryRequest.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\AddOrUpdateInventoryRequest.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\AddOrUpdateInventoryRequest.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Common\\AddOrUpdateInventoryRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -659,47 +730,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 34,
               "Title": "AddOrUpdateDisCountCodeRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\AddOrUpdateDisCountCodeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\AddOrUpdateDisCountCodeRequest.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Common\\AddOrUpdateDisCountCodeRequest.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\AddOrUpdateDisCountCodeRequest.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\AddOrUpdateDisCountCodeRequest.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Common\\AddOrUpdateDisCountCodeRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T01:18:06.313Z"
+              "WhenOpened": "2026-01-30T01:18:06.313Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 32,
               "Title": "OrderResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\OrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\OrderResponse.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Common\\OrderResponse.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\OrderResponse.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\OrderResponse.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Common\\OrderResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T15:45:59.361Z"
+              "WhenOpened": "2026-03-28T15:45:59.361Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 33,
               "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Entities\\Order.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Entities\\Order.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Entities\\Order.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Entities\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T15:46:22.777Z"
+              "WhenOpened": "2026-03-28T15:46:22.777Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 29,
               "Title": "InventoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Repositories\\InventoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Repositories\\InventoryRepository.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Repositories\\InventoryRepository.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Repositories\\InventoryRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Repositories\\InventoryRepository.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Repositories\\InventoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -707,23 +781,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 35,
               "Title": "AddOrUpdateRoleRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\AddOrUpdateRoleRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\AddOrUpdateRoleRequest.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Common\\AddOrUpdateRoleRequest.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\AddOrUpdateRoleRequest.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\AddOrUpdateRoleRequest.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Common\\AddOrUpdateRoleRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T05:48:59.92Z"
+              "WhenOpened": "2026-02-06T05:48:59.92Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 36,
               "Title": "PaymentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Repositories\\PaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Repositories\\PaymentRepository.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Repositories\\PaymentRepository.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Repositories\\PaymentRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Repositories\\PaymentRepository.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Repositories\\PaymentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -731,11 +806,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 37,
               "Title": "ProductImagesRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Repositories\\ProductImagesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Repositories\\ProductImagesRepository.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Repositories\\ProductImagesRepository.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Repositories\\ProductImagesRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Repositories\\ProductImagesRepository.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Repositories\\ProductImagesRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -743,59 +818,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 38,
               "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Repositories\\ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Repositories\\ProductRepository.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Repositories\\ProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T15:40:08.306Z"
+              "WhenOpened": "2026-03-28T15:40:08.306Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 40,
               "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Repositories\\CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Repositories\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Repositories\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Repositories\\CategoryRepository.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Repositories\\CategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T03:07:58.739Z"
+              "WhenOpened": "2026-02-11T03:07:58.739Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "DisCountCodeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Repositories\\DisCountCodeRepository.cs",
-              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Repositories\\DisCountCodeRepository.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Repositories\\DisCountCodeRepository.cs",
-              "RelativeToolTip": "WebEcomerceStoreAPI\\Repositories\\DisCountCodeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T03:41:23.553Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 42,
               "Title": "CategoryResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\CategoryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\CategoryResponse.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Common\\CategoryResponse.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\CategoryResponse.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\CategoryResponse.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Common\\CategoryResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T05:49:02.488Z"
+              "WhenOpened": "2026-02-06T05:49:02.488Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 43,
               "Title": "PagingationResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\PagingationResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\PagingationResponse.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Common\\PagingationResponse.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\PagingationResponse.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\PagingationResponse.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Common\\PagingationResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -803,11 +869,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 39,
               "Title": "ReviewsRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Repositories\\ReviewsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Repositories\\ReviewsRepository.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Repositories\\ReviewsRepository.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Repositories\\ReviewsRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Repositories\\ReviewsRepository.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Repositories\\ReviewsRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -815,11 +881,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 44,
               "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\IServices\\IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\IServices\\IProductService.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\IServices\\IProductService.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\IServices\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\IServices\\IProductService.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\IServices\\IProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -827,35 +893,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 41,
               "Title": "ReviewResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\ReviewResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\ReviewResponse.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Common\\ReviewResponse.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\ReviewResponse.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\ReviewResponse.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Common\\ReviewResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T05:49:03.848Z"
+              "WhenOpened": "2026-02-06T05:49:03.848Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "IProductImagesService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\IServices\\IProductImagesService.cs",
-              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\IServices\\IProductImagesService.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\IServices\\IProductImagesService.cs",
-              "RelativeToolTip": "WebEcomerceStoreAPI\\IServices\\IProductImagesService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T17:12:28.041Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 46,
               "Title": "IInventoryServices.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\IServices\\IInventoryServices.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\IServices\\IInventoryServices.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\IServices\\IInventoryServices.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\IServices\\IInventoryServices.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\IServices\\IInventoryServices.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\IServices\\IInventoryServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -863,23 +918,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 48,
               "Title": "ProductImagesResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\ProductImagesResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\ProductImagesResponse.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Common\\ProductImagesResponse.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\ProductImagesResponse.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\ProductImagesResponse.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Common\\ProductImagesResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-07T11:19:46.977Z"
+              "WhenOpened": "2026-02-07T11:19:46.977Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 45,
               "Title": "IRoleServices.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\IServices\\IRoleServices.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\IServices\\IRoleServices.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\IServices\\IRoleServices.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\IServices\\IRoleServices.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\IServices\\IRoleServices.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\IServices\\IRoleServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -887,59 +943,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 47,
               "Title": "ICloudinaryService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\IServices\\ICloudinaryService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\IServices\\ICloudinaryService.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\IServices\\ICloudinaryService.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\IServices\\ICloudinaryService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\IServices\\ICloudinaryService.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\IServices\\ICloudinaryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T03:09:57.537Z"
+              "WhenOpened": "2026-02-13T03:09:57.537Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 49,
               "Title": "AddOrUpdateProductRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\RequestModel\\AddOrUpdateProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\RequestModel\\AddOrUpdateProductRequest.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Common\\RequestModel\\AddOrUpdateProductRequest.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\RequestModel\\AddOrUpdateProductRequest.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\RequestModel\\AddOrUpdateProductRequest.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Common\\RequestModel\\AddOrUpdateProductRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T14:38:23.235Z"
+              "WhenOpened": "2026-02-25T14:38:23.235Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "ProductImagesController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Controllers\\ProductImagesController.cs",
-              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Controllers\\ProductImagesController.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Controllers\\ProductImagesController.cs",
-              "RelativeToolTip": "WebEcomerceStoreAPI\\Controllers\\ProductImagesController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAgwBQAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T03:19:01.667Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 50,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Entities\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Entities\\Product.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Entities\\Product.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAuwAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T15:56:33.521Z"
+              "WhenOpened": "2026-02-25T15:56:33.521Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 51,
               "Title": "Const.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\Const.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\Const.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Common\\Const.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\Const.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\Const.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Common\\Const.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -947,11 +994,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 52,
               "Title": "InventoryController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Controllers\\InventoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Controllers\\InventoryController.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Controllers\\InventoryController.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Controllers\\InventoryController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Controllers\\InventoryController.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Controllers\\InventoryController.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAowC8AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -959,47 +1006,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 53,
               "Title": "DisCountCodeResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\DisCountCodeResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\DisCountCodeResponse.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Common\\DisCountCodeResponse.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\DisCountCodeResponse.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\DisCountCodeResponse.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Common\\DisCountCodeResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T02:48:49.391Z"
+              "WhenOpened": "2026-01-17T02:48:49.391Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 54,
               "Title": "AddOrUpdateReviewsRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\AddOrUpdateReviewsRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\AddOrUpdateReviewsRequest.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Common\\AddOrUpdateReviewsRequest.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\AddOrUpdateReviewsRequest.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\AddOrUpdateReviewsRequest.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Common\\AddOrUpdateReviewsRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T07:01:01.388Z"
+              "WhenOpened": "2026-01-30T07:01:01.388Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 55,
               "Title": "AddOrUpdateCategoryRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\AddOrUpdateCategoryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\AddOrUpdateCategoryRequest.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Common\\AddOrUpdateCategoryRequest.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\AddOrUpdateCategoryRequest.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\AddOrUpdateCategoryRequest.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Common\\AddOrUpdateCategoryRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T17:14:10.101Z"
+              "WhenOpened": "2026-01-29T17:14:10.101Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 56,
               "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\IServices\\ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\IServices\\ICategoryService.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\IServices\\ICategoryService.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\IServices\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\IServices\\ICategoryService.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\IServices\\ICategoryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1007,59 +1057,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "IDisCountCodeServices.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\IServices\\IDisCountCodeServices.cs",
-              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\IServices\\IDisCountCodeServices.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\IServices\\IDisCountCodeServices.cs",
-              "RelativeToolTip": "WebEcomerceStoreAPI\\IServices\\IDisCountCodeServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T02:05:32.779Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 57,
               "Title": "20251017115009_init.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Migrations\\20251017115009_init.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Migrations\\20251017115009_init.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Migrations\\20251017115009_init.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Migrations\\20251017115009_init.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Migrations\\20251017115009_init.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Migrations\\20251017115009_init.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T10:49:38.398Z"
+              "WhenOpened": "2026-02-13T10:49:38.398Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 60,
               "Title": "OrderDetail.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Entities\\OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Entities\\OrderDetail.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Entities\\OrderDetail.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Entities\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Entities\\OrderDetail.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Entities\\OrderDetail.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T07:05:34.074Z"
+              "WhenOpened": "2026-02-11T07:05:34.074Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 59,
               "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Entities\\Category.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Entities\\Category.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Entities\\Category.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Entities\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T07:05:34.723Z"
+              "WhenOpened": "2026-02-11T07:05:34.723Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 58,
               "Title": "OrderDetailRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Repositories\\OrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Repositories\\OrderDetailRepository.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Repositories\\OrderDetailRepository.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Repositories\\OrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Repositories\\OrderDetailRepository.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Repositories\\OrderDetailRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1067,11 +1108,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 61,
               "Title": "UserRegisterRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\RequestModel\\UserRegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\RequestModel\\UserRegisterRequest.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Common\\RequestModel\\UserRegisterRequest.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\RequestModel\\UserRegisterRequest.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\RequestModel\\UserRegisterRequest.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Common\\RequestModel\\UserRegisterRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1079,23 +1120,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 62,
               "Title": "DisCountCode.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Entities\\DisCountCode.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Entities\\DisCountCode.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Entities\\DisCountCode.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Entities\\DisCountCode.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Entities\\DisCountCode.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Entities\\DisCountCode.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAgwBMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T03:19:10.796Z"
+              "WhenOpened": "2026-01-16T03:19:10.796Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 63,
               "Title": "RoleStatus.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Enum\\RoleStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Enum\\RoleStatus.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Enum\\RoleStatus.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Enum\\RoleStatus.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Enum\\RoleStatus.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Enum\\RoleStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1103,11 +1145,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 64,
               "Title": "AccountStatus.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Enum\\AccountStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Enum\\AccountStatus.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Enum\\AccountStatus.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Enum\\AccountStatus.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Enum\\AccountStatus.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Enum\\AccountStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1115,11 +1157,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 65,
               "Title": "ReviewServices.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\ReviewServices.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\ReviewServices.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Services\\ReviewServices.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\ReviewServices.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\ReviewServices.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Services\\ReviewServices.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAAAHAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1127,47 +1169,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 67,
               "Title": "ProductImages.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Entities\\ProductImages.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Entities\\ProductImages.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Entities\\ProductImages.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Entities\\ProductImages.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Entities\\ProductImages.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Entities\\ProductImages.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T04:06:35.612Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "UploadProductImagesRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\UploadProductImagesRequest.cs",
-              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Common\\UploadProductImagesRequest.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\UploadProductImagesRequest.cs",
-              "RelativeToolTip": "WebEcomerceStoreAPI\\Common\\UploadProductImagesRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T02:47:29.035Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "Reviews.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Entities\\Reviews.cs",
-              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Entities\\Reviews.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Entities\\Reviews.cs",
-              "RelativeToolTip": "WebEcomerceStoreAPI\\Entities\\Reviews.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T08:17:48.361Z"
+              "WhenOpened": "2026-02-03T04:06:35.612Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 66,
+              "Title": "UploadProductImagesRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\UploadProductImagesRequest.cs",
+              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Common\\UploadProductImagesRequest.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Common\\UploadProductImagesRequest.cs",
+              "RelativeToolTip": "WebEcomerceStoreAPI\\Common\\UploadProductImagesRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T02:47:29.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Reviews.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Entities\\Reviews.cs",
+              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Entities\\Reviews.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Entities\\Reviews.cs",
+              "RelativeToolTip": "WebEcomerceStoreAPI\\Entities\\Reviews.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T08:17:48.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
               "Title": "IReviewServices.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\IServices\\IReviewServices.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\IServices\\IReviewServices.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\IServices\\IReviewServices.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\IServices\\IReviewServices.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\IServices\\IReviewServices.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\IServices\\IReviewServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1175,11 +1220,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 70,
               "Title": "RoleServices.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\RoleServices.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\RoleServices.cs",
               "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Services\\RoleServices.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EShopWeb\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\RoleServices.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Services\\RoleServices.cs",
               "RelativeToolTip": "WebEcomerceStoreAPI\\Services\\RoleServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1188,8 +1233,8 @@
           ]
         },
         {
-          "DockedWidth": 1473,
-          "SelectedChildIndex": -1,
+          "DockedWidth": 967,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -1198,6 +1243,40 @@
             {
               "$type": "Bookmark",
               "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\.env",
+              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\.env",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\.env",
+              "RelativeToolTip": "WebEcomerceStoreAPI\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-18T09:50:05.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "WebEcomerceStoreAPI\\Dockerfile",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\WebShop_BanDienThoai\\WebEcomerceStoreAPI\\WebEcomerceStoreAPI\\Dockerfile",
+              "RelativeToolTip": "WebEcomerceStoreAPI\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-17T08:14:30.573Z",
+              "EditorCaption": ""
             }
           ]
         }

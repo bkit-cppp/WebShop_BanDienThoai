@@ -25,10 +25,15 @@ namespace WebEcomerceStoreAPI.Controllers
         {
             return await _orderServices.GetByIdOrder(id);
         }
-        [HttpPost]
+        [HttpPost("addOrUpdateOrder")]
         public async Task<IBussinessResult>AddOrUpdateOrder(AddOrUpdateOrderRequest request)
         {
             return await _orderServices.AddOrUpdateOrder(request);
+        }
+        [HttpDelete("delete-Order")]
+        public async Task<IBussinessResult>DeleteOrder(Guid id)
+        {
+            return await  _orderServices.DeleteOrder(id);
         }
     }
 }

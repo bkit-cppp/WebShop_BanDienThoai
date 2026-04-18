@@ -49,9 +49,16 @@ namespace WebEcomerceStoreAPI.Services
             }
         }
 
-        public Task<IBussinessResult> DeleteOrder(Guid id)
+        public async Task<IBussinessResult> DeleteOrder(Guid id)
         {
-            throw new NotImplementedException();
+            var order=await _unitOfWork.Order.GetByIdAsync(id);
+            if (order == null)
+            {
+                return new BussinessResult(Const.WARNING_NO_DATA_CODE, "Không có dữ liệu");
+            }
+            await _unitOfWork.Order.RemoveAsync(order);
+            await _unitOfWork.Order.SaveChangeAsync();
+            return new BussinessResult(Const.SUCCESS_DELETE_CODE, "Đã xóa thành công)");
         }
 
         public async Task<IBussinessResult> GetAllOrder()
