@@ -21,7 +21,7 @@
     },
     "resourceName": {
       "type": "string",
-      "defaultValue": "WebEcomerceStoreAPI20260418170405",
+      "defaultValue": "WebEcomerceStoreAPI20260419224418",
       "metadata": {
         "description": "Name of the main resource to be created by this template."
       }

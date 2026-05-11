@@ -37,8 +37,8 @@
   },
   {
     "ContainingType": "WebEcomerceStoreAPI.Controllers.CategoriesController",
-    "Method": "AddOrUpdate",
-    "RelativePath": "api/Categories/addOrUpdate",
+    "Method": "AddOrUpdateCategory",
+    "RelativePath": "api/Categories/addOrUpdateCategory",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -63,8 +63,8 @@
   },
   {
     "ContainingType": "WebEcomerceStoreAPI.Controllers.CategoriesController",
-    "Method": "Delete",
-    "RelativePath": "api/Categories/delete-category",
+    "Method": "DeleteCategory",
+    "RelativePath": "api/Categories/deleteCategory",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -400,8 +400,34 @@
   },
   {
     "ContainingType": "WebEcomerceStoreAPI.Controllers.OrdersController",
+    "Method": "GetByIdOrder",
+    "RelativePath": "api/Orders/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebEcomerceStoreAPI.Base.IBussinessResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebEcomerceStoreAPI.Controllers.OrdersController",
     "Method": "AddOrUpdateOrder",
-    "RelativePath": "api/Orders",
+    "RelativePath": "api/Orders/addOrUpdateOrder",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -426,16 +452,16 @@
   },
   {
     "ContainingType": "WebEcomerceStoreAPI.Controllers.OrdersController",
-    "Method": "GetByIdOrder",
-    "RelativePath": "api/Orders/{id}",
-    "HttpMethod": "GET",
+    "Method": "DeleteOrder",
+    "RelativePath": "api/Orders/delete-Order",
+    "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
         "Name": "id",
         "Type": "System.Guid",
-        "IsRequired": true
+        "IsRequired": false
       }
     ],
     "ReturnTypes": [

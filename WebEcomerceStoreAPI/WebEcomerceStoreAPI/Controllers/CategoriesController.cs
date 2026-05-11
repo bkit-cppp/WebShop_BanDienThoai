@@ -35,14 +35,14 @@ namespace WebEcomerceStoreAPI.Controllers
             }
             return Ok(categoryId);
         }
-        [HttpPost("addOrUpdate")]
-        public async Task<IBussinessResult>AddOrUpdate(AddOrUpdateCategoryRequest request)
+        [HttpPost("addOrUpdateCategory")]
+        public async Task<IBussinessResult>AddOrUpdateCategory(AddOrUpdateCategoryRequest request)
         {
           
             return await _categoryService.AddOrUpdateCategory(request); 
         }
-        [HttpDelete("delete-category")]
-        public async Task<IBussinessResult>Delete(Guid Id)
+        [HttpDelete("deleteCategory")]
+        public async Task<IBussinessResult>DeleteCategory(Guid Id)
         {
             return await _categoryService.DeleteCategory(Id);
         }

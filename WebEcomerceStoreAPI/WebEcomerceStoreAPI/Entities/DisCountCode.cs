@@ -1,4 +1,6 @@
-﻿ namespace WebEcomerceStoreAPI.Entities
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace WebEcomerceStoreAPI.Entities
 {
     public class DisCountCode
     {
@@ -12,11 +14,17 @@ EndDate	DATETIME	NOT NULL	Ngày kết thúc
 IsActive	BIT	DEFAULT 1	1: Đang áp dụng
         */
         public Guid DiscountId { get; set; }
+        [Required(ErrorMessage = "Vui Lòng Nhập vào phần mã ")]
         public string Code { get; set; }
+        [Required(ErrorMessage = "Vui Lòng Nhập vào phần trăm giảm giá")]
         public decimal DiscountPercent { get; set; }
+        [Required(ErrorMessage = "Vui Lòng Nhập vào phần số tiền giảm giá")]
         public decimal DiscountAmount { get; set; }
+        [Required(ErrorMessage = "Ngày bắt đầu")]
         public DateTime StartDate { get; set; }
+        [Required(ErrorMessage ="Ngày Kết Thúc")]
         public DateTime EndDate { get; set; }
+        [Required (ErrorMessage ="Trạng Thái")]
         public bool IsActive { get; set; }
     }
 }
