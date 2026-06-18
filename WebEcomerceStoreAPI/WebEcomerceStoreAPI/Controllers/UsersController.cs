@@ -29,11 +29,12 @@ namespace WebEcomerceStoreAPI.Controllers
             {
               return BadRequest(ModelState);
             }    
-            var (code,message,token,refrestoken)=
-            await _userService.LoginAsync(loginRequest.UserName, loginRequest.Password);
-       
-            if (code != Const.SUCCESS_READ_CODE || string.IsNullOrEmpty(token))  return Unauthorized();
-            return Ok(new { token, message });
+            var res= await _userService.LoginAsync(loginRequest);
+            if (res.Status != Const.SUCCESS_READ_CODE)
+            {
+                return Unauthorized();
+            }
+            return Ok(res);
         }
         [HttpPost("register")]
         public async Task<IActionResult> Register([FromBody] UserRegisterRequest registerRequestModel)
@@ -42,12 +43,12 @@ namespace WebEcomerceStoreAPI.Controllers
             {
                 return BadRequest(ModelState);
             }
-            var (code,message) = await _userService.RegisterAsync(registerRequestModel);
-            if(code!=Const.SUCCESS_CREATE_CODE)
+            var res = await _userService.RegisterAsync(registerRequestModel);
+            if(res.Status!=Const.SUCCESS_CREATE_CODE)
             {
-                return BadRequest(new { code, message });
+                return BadRequest();
             }
-            return Ok(new {message});
+            return Ok(res);
         }
         [HttpPost("refreshToken")]
         public async Task<IActionResult> RefreshToken([FromBody] string freshToken)
@@ -55,7 +56,7 @@ namespace WebEcomerceStoreAPI.Controllers
             var res = await _userService.RefreshToken(freshToken);
             if(!ModelState.IsValid)
             {
-                return BadRequest(ModelState);
+                return BadRequest();
             }
             return Ok(new { res });
         }

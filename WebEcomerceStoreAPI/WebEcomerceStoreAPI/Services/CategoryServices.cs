@@ -1,4 +1,5 @@
-﻿using WebEcomerceStoreAPI.Base;
+﻿using Microsoft.EntityFrameworkCore;
+using WebEcomerceStoreAPI.Base;
 using WebEcomerceStoreAPI.Common;
 using WebEcomerceStoreAPI.Entities;
 using WebEcomerceStoreAPI.IServices;
@@ -8,10 +9,11 @@ namespace WebEcomerceStoreAPI.Services
     public class CategoryServices : ICategoryService
     {
         private readonly UnitOfWork _unitOfWork;
-
-        public CategoryServices(UnitOfWork unitOfWork)
+        private readonly ILogger<CategoryServices> _logger;
+        public CategoryServices(UnitOfWork unitOfWork, ILogger<CategoryServices> logger)
         {
             _unitOfWork = unitOfWork ?? throw new ArgumentNullException(nameof(unitOfWork));
+            _logger = logger;
         }
 
         public async Task<IBussinessResult> AddOrUpdateCategory(AddOrUpdateCategoryRequest request)
@@ -43,7 +45,8 @@ namespace WebEcomerceStoreAPI.Services
                 }
             }catch(Exception ex)
             {
-                throw new Exception ();
+                _logger.LogError(ex,ex.Message);
+                return new BussinessResult(Const.ERROR_EXCEPTION, "Lỗi hệ thống");
             }
         }
 
@@ -65,18 +68,19 @@ namespace WebEcomerceStoreAPI.Services
 
         public async Task<IBussinessResult> GetAllCategory()
         {
-            var listCategory = await _unitOfWork.Category.GetAllAsync();
+
+            var listCategory = await _unitOfWork.Category.Context().Categories.Select(c => new CategoryResponse
+            {
+               CategoryId=c.CategoryId,
+               Description=c.Description,
+               Name=c.Name
+            }).ToListAsync();
             if (listCategory == null || !listCategory.Any())
             {
                 return new BussinessResult(Const.WARNING_NO_DATA_CODE, "Không tìm thấy data");
             }
-            var categoryResponse = listCategory.Select(c => new CategoryResponse
-            {
-                CategoryId=c.CategoryId,
-                Name=c.Name,
-                Description=c.Description
-            });
-            return new BussinessResult(Const.SUCCESS_READ_CODE, "Kết quả trả về:", categoryResponse);
+           
+            return new BussinessResult(Const.SUCCESS_READ_CODE, "Kết quả trả về:", listCategory);
 
         }
 

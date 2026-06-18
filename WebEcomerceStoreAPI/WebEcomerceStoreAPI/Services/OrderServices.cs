@@ -8,9 +8,11 @@ namespace WebEcomerceStoreAPI.Services
     public class OrderServices : IOrderServices
     {
         private readonly UnitOfWork _unitOfWork;
-        public OrderServices(UnitOfWork unitOfWork)
+        private readonly ILogger<OrderServices> _logger;
+        public OrderServices(UnitOfWork unitOfWork, ILogger<OrderServices> logger)
         {
             _unitOfWork = unitOfWork;
+            _logger = logger;
         }
         public async Task<IBussinessResult> AddOrUpdateOrder(AddOrUpdateOrderRequest request)
         {
@@ -45,6 +47,7 @@ namespace WebEcomerceStoreAPI.Services
                 }
             }catch(Exception ex)
             {
+                _logger.LogError(ex, ex.Message); 
                 return new BussinessResult(Const.ERROR_EXCEPTION,ex.Message);
             }
         }

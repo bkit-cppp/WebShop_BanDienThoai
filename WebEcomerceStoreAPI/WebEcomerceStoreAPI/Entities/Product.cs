@@ -13,7 +13,7 @@
         public Guid CategoryId { get; set; }
         public virtual Category Category { get; set; }
         public ICollection<OrderDetail> OrderDetails { get; set; }
-        public ICollection<Product> Products { get; set; }
+        public ICollection<ProductImages> ProductImages { get; set; }
         public ICollection<Inventory> Inventories { get; set; }
     }
 }

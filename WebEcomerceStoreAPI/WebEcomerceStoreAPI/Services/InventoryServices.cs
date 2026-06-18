@@ -8,9 +8,11 @@ namespace WebEcomerceStoreAPI.Services
     public class InventoryServices : IInventoryServices
     {
         private readonly UnitOfWork _unitOfWork;
-        public InventoryServices(UnitOfWork unitOfWork)
+        private readonly ILogger<InventoryServices> _logger;
+        public InventoryServices(UnitOfWork unitOfWork, ILogger<InventoryServices> logger)
         {
             _unitOfWork = unitOfWork;
+            _logger = logger;
         }
         public async Task<IBussinessResult> GetAllInventory()
         {
@@ -74,7 +76,8 @@ namespace WebEcomerceStoreAPI.Services
                 }
             }catch(Exception ex)
             {
-                throw new Exception(ex.Message);
+                _logger.LogError(ex, ex.Message);
+                return new BussinessResult(Const.ERROR_EXCEPTION,ex.Message);
             }
         }
 

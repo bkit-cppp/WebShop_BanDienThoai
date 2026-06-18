@@ -81,7 +81,22 @@ namespace WebEcomerceStoreAPI.Data
                     RoleId=(int)RoleStatus.Admin,
                     Status=AccountStatus.Active.ToString(),
                 });
-            }    
+            }
+            if (!context.Users.Any(u => u.RoleId == (int)RoleStatus.User))
+            {
+                var adminId = Guid.NewGuid();
+                var hashPassword = BCrypt.Net.BCrypt.HashPassword("Khai@2402");
+                context.Users.Add(new User
+                {
+                    UserId = adminId,
+                    Name = "lbkhai",
+                    Password = hashPassword,
+                    Email = "Khai123@gmail.com",
+                    Address = "Quan 12",
+                    RoleId = (int)RoleStatus.User,
+                    Status = AccountStatus.Active.ToString(),
+                });
+            }
             if (!context.Reviews.Any())
             {
                 context.Reviews.AddRange(new List<Reviews>

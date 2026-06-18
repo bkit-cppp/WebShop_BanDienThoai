@@ -10,5 +10,6 @@ namespace WebEcomerceStoreAPI.IServices
         Task<IBussinessResult> GetProductByName(string productName);
         Task<IBussinessResult> AddOrUpdateProduct(AddOrUpdateProductRequest request);
         Task<IBussinessResult> DeleteProduct(Guid id);
+        Task<IBussinessResult> GetProductByPrice(long price);
     }
 }

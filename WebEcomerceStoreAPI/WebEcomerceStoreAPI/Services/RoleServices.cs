@@ -1,4 +1,5 @@
-﻿using WebEcomerceStoreAPI.Base;
+﻿using Microsoft.EntityFrameworkCore;
+using WebEcomerceStoreAPI.Base;
 using WebEcomerceStoreAPI.Common;
 using WebEcomerceStoreAPI.Entities;
 using WebEcomerceStoreAPI.IServices;
@@ -77,18 +78,17 @@ namespace WebEcomerceStoreAPI.Services
 
         public async Task<IBussinessResult> GetListRole()
         {
-            var listRole = await _unitOfWork.Role.GetAllAsync();
+            var listRole = await _unitOfWork.Role.Context().Roles.Select(r => new RoleResponse
+            {
+                Id = r.RoleId,
+                RoleName = r.RoleName
+
+            }).ToListAsync();
             if(listRole==null)
             {
                 return new BussinessResult(Const.FAIL_READ_CODE, "danh sách rỗng");
             }
-            var role = listRole.Select(r => new RoleResponse
-            {
-                Id=r.RoleId,
-                RoleName=r.RoleName
-
-            });
-            return new BussinessResult(Const.SUCCESS_READ_CODE, "Đọc dữ liệu thành công", role);
+            return new BussinessResult(Const.SUCCESS_READ_CODE, "Đọc dữ liệu thành công", listRole);
         }
     }
 }

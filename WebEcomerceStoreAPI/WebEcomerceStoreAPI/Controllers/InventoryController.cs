@@ -17,8 +17,8 @@ namespace WebEcomerceStoreAPI.Controllers
         {
             _inventoryServices = inventoryServices;
         }
-        [HttpGet("get-list")]
-        public async Task<IBussinessResult>GetAllInventory()
+        [HttpGet]
+        public async Task<IBussinessResult>GetListInventory()
         {
             return await _inventoryServices.GetAllInventory();
         }
@@ -27,12 +27,12 @@ namespace WebEcomerceStoreAPI.Controllers
         {
             return await _inventoryServices.GetByIdInventory(Id);
         }
-        [HttpPost("addOrUpdateInventory")]
+        [HttpPost]
         public async Task<IBussinessResult>AddOrUpdate( AddOrUpdateInventoryRequest request)
         {
             return await _inventoryServices.AddOrUpdateInventory(request);
         }
-        [HttpDelete("deleteInventory")]
+        [HttpDelete("{Id}")]
         public async Task<IBussinessResult>Delete(int id)
         {
             return await _inventoryServices.DeleteInventory(id);
@@ -42,7 +42,7 @@ namespace WebEcomerceStoreAPI.Controllers
         {
             return await _inventoryServices.GetPaginationInventory(cursorId, limit);
         }
-        [HttpGet("GetByName")]
+        [HttpGet("by-name")]
         public async Task<IBussinessResult>GetByNameInventory(string name)
         {
             return await _inventoryServices.GetByNameInventory(name);

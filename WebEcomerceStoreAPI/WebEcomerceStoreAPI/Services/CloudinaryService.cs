@@ -1,5 +1,6 @@
 ﻿using CloudinaryDotNet;
 using CloudinaryDotNet.Actions;
+using Microsoft.Extensions.Options;
 using System.Net;
 using WebEcomerceStoreAPI.Base;
 using WebEcomerceStoreAPI.Common;
@@ -10,12 +11,25 @@ namespace WebEcomerceStoreAPI.Services
     public class CloudinaryService : ICloudinaryService
     {
         private readonly Cloudinary _cloudinary;
-        public CloudinaryService()
+        //public CloudinaryService()
+        //{
+        //    var cloudinaryUrl = Environment.GetEnvironmentVariable("CLOUDINARY_URL");
+        //    var cloudinary = new Cloudinary(cloudinaryUrl);
+        //    cloudinary.Api.Secure = true;
+        //    _cloudinary = cloudinary;  
+        //}
+        public CloudinaryService( IOptions<CloudinarySettings> options)
         {
-            var cloudinaryUrl = Environment.GetEnvironmentVariable("CLOUDINARY_URL");
-            var cloudinary = new Cloudinary(cloudinaryUrl);
-            cloudinary.Api.Secure = true;
-            _cloudinary = cloudinary;  
+            var settings = options.Value;
+
+            var account = new Account(
+                settings.CloudName,
+                settings.ApiKey,
+                settings.ApiSecret
+            );
+
+            _cloudinary = new Cloudinary(account);
+            _cloudinary.Api.Secure = true;
         }
         public async Task<IBussinessResult> DeleteImages(string imageUrl)
         {

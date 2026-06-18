@@ -10,6 +10,7 @@ using WebEcomerceStoreAPI.Services;
 using Microsoft.OpenApi.Models;
 using Microsoft.AspNetCore.RateLimiting;
 using System.Threading.RateLimiting;
+using WebEcomerceStoreAPI.Common;
 
 namespace WebEcomerceStoreAPI
 {
@@ -22,7 +23,7 @@ namespace WebEcomerceStoreAPI
             // 🔐 JWT config
             var jwtSettings = builder.Configuration.GetSection("JwtSettings");
             var secretKey = jwtSettings.GetValue<string>("SecretKey")
-                ?? throw new Exception("Jwt SecretKey is missing!");
+                ?? throw new Exception("Jwt SecretKey lỗi");
 
             // 🪵 Logging
             builder.Logging.ClearProviders();
@@ -40,7 +41,7 @@ namespace WebEcomerceStoreAPI
 
             builder.Services.AddSingleton<IConfiguration>(builder.Configuration);
 
-            // 📦 DI Services
+            // DI Services
             builder.Services.AddScoped(typeof(GenericRepository<>));
             builder.Services.AddScoped<UnitOfWork>();
             builder.Services.AddScoped<IUserService, UserService>();
@@ -53,7 +54,7 @@ namespace WebEcomerceStoreAPI
             builder.Services.AddScoped<IDisCountCodeServices, DisCountCodeServices>();
             builder.Services.AddScoped<IProductImagesService, ProductImagesServices>();
             builder.Services.AddScoped<ICloudinaryService, CloudinaryService>();
-
+            builder.Services.Configure<CloudinarySettings>(builder.Configuration.GetSection("CloudinarySettings"));
             builder.Services.AddRateLimiter(options =>
             {
                 options.RejectionStatusCode = StatusCodes.Status429TooManyRequests;
@@ -82,7 +83,7 @@ namespace WebEcomerceStoreAPI
                 });
             });
 
-            // 🔐 Authentication
+            //  Authentication
             builder.Services.AddAuthentication(options =>
             {
                 options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
@@ -204,14 +205,10 @@ namespace WebEcomerceStoreAPI
             }
 
             app.UseCors("AllowFrontend");
-
             app.UseAuthentication();
             app.UseAuthorization();
-
             app.UseRateLimiter();
-
             app.MapControllers();
-
             app.Run();
         }
     }

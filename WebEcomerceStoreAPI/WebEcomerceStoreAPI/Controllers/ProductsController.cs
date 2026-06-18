@@ -11,7 +11,7 @@ namespace WebEcomerceStoreAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize(Roles ="Admin, User")]
+    [Authorize(Roles ="Admin")]
     public class ProductsController : ControllerBase
     {
         private readonly IProductService _productService;
@@ -19,8 +19,8 @@ namespace WebEcomerceStoreAPI.Controllers
         {
             _productService = productService;
         }
-        [HttpGet("GetAll")]
-        public async Task<IBussinessResult> GetList()
+        [HttpGet]
+        public async Task<IBussinessResult> GetAllProduct()
         {
             return await _productService.GetAllProduct();
         }
@@ -29,22 +29,25 @@ namespace WebEcomerceStoreAPI.Controllers
         {
             return await _productService.GetByIdProduct(id);
         }
-        [HttpGet("GetByName")]
+        [HttpGet("by-name")]
         public async Task<IBussinessResult>GetProductByName(string name)
         {
             return await _productService.GetProductByName(name);
         }
-        [HttpPost("addOrUpdate")]
+        [HttpGet("by-price")]
+        public async Task<IBussinessResult>GetProductByPrice(long price)
+        {
+            return await _productService.GetProductByPrice(price);
+        }
+        [HttpPost]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
         public async Task<IBussinessResult>AddOrUpdateProduct(AddOrUpdateProductRequest request)
         {
             return await _productService.AddOrUpdateProduct(request);
         }
-        [HttpDelete("delete")]
+        [HttpDelete("{id}")]
         public async Task<IBussinessResult>DeleteProduct(Guid Id)
         {
             return await _productService.DeleteProduct(Id);
         }
-       
-
     }
 }

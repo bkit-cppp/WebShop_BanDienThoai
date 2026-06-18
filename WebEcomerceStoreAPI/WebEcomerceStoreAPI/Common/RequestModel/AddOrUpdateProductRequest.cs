@@ -10,6 +10,7 @@
         public string Type { get; set; }
         public string Brand { get; set; }
         public int QuantityStock { get; set; }
+        public Guid CategoryId { get; set; }
 
     }
 }

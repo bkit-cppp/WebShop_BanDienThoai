@@ -8,10 +8,11 @@ namespace WebEcomerceStoreAPI.Services
     public class DisCountCodeServices : IDisCountCodeServices
     {
         private readonly UnitOfWork _unitOfWork;
-
-        public DisCountCodeServices( UnitOfWork unitOfWork)
+        private readonly ILogger<DisCountCodeServices> _logger;
+        public DisCountCodeServices( UnitOfWork unitOfWork, ILogger<DisCountCodeServices>logger)
         {
             _unitOfWork = unitOfWork;
+            _logger = logger;
         }
         public async Task<IBussinessResult> AddOrUpdateDisCountCodeAsync(AddOrUpdateDisCountCodeRequest request)
         {
@@ -50,6 +51,7 @@ namespace WebEcomerceStoreAPI.Services
                 }
             }catch(Exception ex)
             {
+                _logger.LogError(ex, ex.Message);
                 return new BussinessResult(Const.FAIL_CREATE_CODE, ex.Message);
             }
         }
@@ -67,6 +69,25 @@ namespace WebEcomerceStoreAPI.Services
             
 
         }
+        public async Task<IBussinessResult> GetAllDisCountCode()
+        {
+            var discountCode = await _unitOfWork.DisCountCode.GetAllAsync();
+            if (discountCode == null) 
+            {
+                return new BussinessResult(Const.WARNING_NO_DATA_CODE, "Không có dữ liệu");
+            }
+            var discountcodeResponse = discountCode.Select(c => new DisCountCodeResponse
+            {
+                DiscountId=c.DiscountId,
+                DiscountAmount=c.DiscountAmount,
+                DiscountPercent=c.DiscountPercent,
+                Code=c.Code,
+                StartDate=c.StartDate,
+                EndDate=c.EndDate
+
+            });
+            return new BussinessResult(Const.SUCCESS_READ_CODE, "Đọc dữ liệu thành công", discountcodeResponse);
+        }
 
         public async Task<IBussinessResult> GetDisCountCodeByIdAsync(string code)
         {
@@ -77,7 +98,7 @@ namespace WebEcomerceStoreAPI.Services
             }
             var disCountCodeId = new DisCountCodeResponse
             {
-                DiscountId=Guid.NewGuid(),
+                DiscountId=disCountCode.DiscountId,
                 Code=disCountCode.Code,
                 StartDate=DateTime.Now,
                 EndDate=DateTime.Now,

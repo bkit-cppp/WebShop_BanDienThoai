@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using WebEcomerceStoreAPI.Data;
 
@@ -11,9 +12,11 @@ using WebEcomerceStoreAPI.Data;
 namespace WebEcomerceStoreAPI.Migrations
 {
     [DbContext(typeof(StoreDbContext))]
-    partial class StoreDbContextModelSnapshot : ModelSnapshot
+    [Migration("20260522074257_SeedDataUs")]
+    partial class SeedDataUs
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -217,6 +220,9 @@ namespace WebEcomerceStoreAPI.Migrations
                     b.Property<long>("Price")
                         .HasColumnType("bigint");
 
+                    b.Property<Guid?>("ProductId1")
+                        .HasColumnType("uniqueidentifier");
+
                     b.Property<int>("QuantityStock")
                         .HasColumnType("int");
 
@@ -227,6 +233,8 @@ namespace WebEcomerceStoreAPI.Migrations
                     b.HasKey("ProductId");
 
                     b.HasIndex("CategoryId");
+
+                    b.HasIndex("ProductId1");
 
                     b.ToTable("Product", (string)null);
                 });
@@ -248,8 +256,6 @@ namespace WebEcomerceStoreAPI.Migrations
                         .HasColumnType("uniqueidentifier");
 
                     b.HasKey("ImageId");
-
-                    b.HasIndex("ProductId");
 
                     b.ToTable("ProductImages", (string)null);
                 });
@@ -411,18 +417,11 @@ namespace WebEcomerceStoreAPI.Migrations
                         .HasForeignKey("CategoryId")
                         .IsRequired();
 
+                    b.HasOne("WebEcomerceStoreAPI.Entities.Product", null)
+                        .WithMany("Products")
+                        .HasForeignKey("ProductId1");
+
                     b.Navigation("Category");
-                });
-
-            modelBuilder.Entity("WebEcomerceStoreAPI.Entities.ProductImages", b =>
-                {
-                    b.HasOne("WebEcomerceStoreAPI.Entities.Product", "Product")
-                        .WithMany("ProductImages")
-                        .HasForeignKey("ProductId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Product");
                 });
 
             modelBuilder.Entity("WebEcomerceStoreAPI.Entities.Reviews", b =>
@@ -471,7 +470,7 @@ namespace WebEcomerceStoreAPI.Migrations
 
                     b.Navigation("OrderDetails");
 
-                    b.Navigation("ProductImages");
+                    b.Navigation("Products");
                 });
 
             modelBuilder.Entity("WebEcomerceStoreAPI.Entities.Roles", b =>

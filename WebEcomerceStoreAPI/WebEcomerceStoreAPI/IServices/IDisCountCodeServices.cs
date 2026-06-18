@@ -5,6 +5,7 @@ namespace WebEcomerceStoreAPI.IServices
 {
     public interface IDisCountCodeServices
     {
+        Task<IBussinessResult> GetAllDisCountCode();
         Task<bool> IsValidDisCountCodeAsync(Guid disCountcode);
         Task<IBussinessResult> GetDisCountCodeByIdAsync(string code);
         Task<IBussinessResult> AddOrUpdateDisCountCodeAsync(AddOrUpdateDisCountCodeRequest request);

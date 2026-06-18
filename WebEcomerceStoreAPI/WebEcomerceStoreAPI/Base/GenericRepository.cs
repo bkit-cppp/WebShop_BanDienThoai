@@ -88,7 +88,10 @@ namespace WebEcomerceStoreAPI.Base
         {
             return await _context.Set<T>().FindAsync(Name);
         }
-
+        public async Task<T?>GetByPrice(long price)
+        {
+            return await _context.Set<T>().FindAsync(price);
+        }
         public T? GetById(string code)
         {
             return _context.Set<T>().Find(code);

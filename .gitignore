@@ -1,0 +1,14 @@
+.vs/
+**/.vs/
+
+bin/
+obj/
+**/bin/
+**/obj/
+
+publish/
+.env
+*.user
+*.suo
+*.cache
+*.log

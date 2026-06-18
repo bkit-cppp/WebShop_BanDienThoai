@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using WebEcomerceStoreAPI.Base;
 using WebEcomerceStoreAPI.Common;
@@ -8,6 +9,7 @@ namespace WebEcomerceStoreAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize(Roles ="Admin")]
     public class OrdersController : ControllerBase
     {
         private readonly IOrderServices _orderServices;
@@ -30,7 +32,7 @@ namespace WebEcomerceStoreAPI.Controllers
         {
             return await _orderServices.AddOrUpdateOrder(request);
         }
-        [HttpDelete("delete-Order")]
+        [HttpDelete("deleteOrder")]
         public async Task<IBussinessResult>DeleteOrder(Guid id)
         {
             return await  _orderServices.DeleteOrder(id);

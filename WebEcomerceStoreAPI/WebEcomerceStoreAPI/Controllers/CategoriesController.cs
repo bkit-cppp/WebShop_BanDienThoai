@@ -11,7 +11,7 @@ namespace WebEcomerceStoreAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize (Roles ="Admin,User")]
+    [AllowAnonymous]
     public class CategoriesController : ControllerBase
     {
         private readonly ICategoryService _categoryService;
@@ -46,7 +46,7 @@ namespace WebEcomerceStoreAPI.Controllers
         {
             return await _categoryService.DeleteCategory(Id);
         }
-        [HttpGet("Pagination")] 
+        [HttpGet("PaginationCategory")] 
         public async Task<IBussinessResult> PaginationCategory([FromQuery] Guid? cursorId,[FromQuery] int limit =5)
         {
             return await _categoryService.GetPagination(cursorId, limit);

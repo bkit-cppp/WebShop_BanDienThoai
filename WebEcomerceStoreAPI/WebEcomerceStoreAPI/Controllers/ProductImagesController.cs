@@ -4,12 +4,14 @@ using Microsoft.AspNetCore.Mvc;
 using WebEcomerceStoreAPI.Base;
 using WebEcomerceStoreAPI.Common;
 using WebEcomerceStoreAPI.IServices;
+using WebEcomerceStoreAPI.Services;
 
 namespace WebEcomerceStoreAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize("Admin, User")]
+    [Authorize(Roles = "Admin,User")]
+    [Consumes("multipart/form-data")]
     public class ProductImagesController : ControllerBase
     {
         private readonly IProductImagesService _productImages;
@@ -27,10 +29,14 @@ namespace WebEcomerceStoreAPI.Controllers
         {
             return await _productImages.GetByIdImages(id);
         }
-        [HttpPost("addImages")]
-        public async Task<IBussinessResult>AddProductImages([FromForm] UploadProductImagesRequest res)
+
+        [HttpPost("{productId}")]
+        public async Task<IActionResult> AddImage(Guid productId, [FromForm] UploadProductImagesRequest request)
         {
-            return await _productImages.AddImages(res.file, res.Id);
+            var result = await _productImages.AddImages(request.file, productId, request.isMain);
+            return Ok(result);
         }
+
+
     }
 }

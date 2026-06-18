@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using WebEcomerceStoreAPI.Base;
 using WebEcomerceStoreAPI.Common;
@@ -8,6 +9,7 @@ namespace WebEcomerceStoreAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize(Roles ="Admin")]
     public class DisCountCodesController : ControllerBase
     {
         private readonly IDisCountCodeServices _disCountCode;
@@ -19,6 +21,11 @@ namespace WebEcomerceStoreAPI.Controllers
         public async Task<IBussinessResult>GetByCode(string code)
         {
             return await _disCountCode.GetDisCountCodeByIdAsync(code);
+        }
+        [HttpGet]
+        public async Task<IBussinessResult>GetListDiscountcode()
+        {
+            return await _disCountCode.GetAllDisCountCode();
         }
         [HttpGet("isValidCode/{disCountCode}")]
         public async Task<IActionResult>IsvalidDisCountCode(Guid disCountCode)

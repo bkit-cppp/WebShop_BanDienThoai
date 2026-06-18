@@ -13,7 +13,6 @@ namespace WebEcomerceStoreAPI.Entities
         public string Status { get; set; } = string.Empty;
         public int? RoleId { get; set; }
         public virtual Roles Role { get; set; }
-        
         public string Password { get; set; }
         public ICollection<Order> Orders { get; set; }
         public ICollection<Reviews> Reviews { get; set; }

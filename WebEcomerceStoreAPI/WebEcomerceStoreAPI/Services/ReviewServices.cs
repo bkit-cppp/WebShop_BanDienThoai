@@ -8,9 +8,11 @@ namespace WebEcomerceStoreAPI.Services
     public class ReviewServices : IReviewServices
     {
         private readonly UnitOfWork _unitOfWork;
-        public ReviewServices( UnitOfWork unitOfWork )
+        private readonly ILogger<ReviewServices> _logger;
+        public ReviewServices( UnitOfWork unitOfWork, ILogger<ReviewServices>logger )
         {
             _unitOfWork = unitOfWork;
+            _logger = logger;
         }
         public async Task<IBussinessResult> AddOrUpdateReviews(AddOrUpdateReviewsRequest request)
         {
@@ -47,7 +49,8 @@ namespace WebEcomerceStoreAPI.Services
             }
             catch(Exception ex)
             {
-                throw new Exception(ex.Message);
+              _logger.LogError(ex, ex.Message);
+              return new BussinessResult(Const.ERROR_EXCEPTION,ex.Message);
             }
            
             

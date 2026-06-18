@@ -9,5 +9,8 @@
         public string Brand { get; set; }
         public string Type { get; set; }
         public int QuantityStock { get; set; }
+        public string PictureUrl { get; set; }
+        public string CategoryName { get; set; }
+        
     }
 }
