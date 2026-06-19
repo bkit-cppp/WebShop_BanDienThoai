@@ -30,14 +30,14 @@ namespace WebEcomerceStoreAPI
             builder.Logging.AddConsole();
             builder.Logging.AddDebug();
 
-            // 🗄️ Database
-            builder.Services.AddDbContext<StoreDbContext>(options =>
-            {
-                var connectionString = builder.Configuration.GetConnectionString("DefaultConnectionString")
-                    ?? throw new Exception("Connection string is missing!");
+            //// 🗄️ Database
+            //builder.Services.AddDbContext<StoreDbContext>(options =>
+            //{
+            //    var connectionString = builder.Configuration.GetConnectionString("DefaultConnectionString")
+            //        ?? throw new Exception("Connection string is missing!");
 
-                options.UseSqlServer(connectionString);
-            });
+            //    options.UseSqlServer(connectionString);
+            //});
 
             builder.Services.AddSingleton<IConfiguration>(builder.Configuration);
 
